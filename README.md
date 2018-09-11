@@ -4,7 +4,7 @@ Exoplayer for android Mobile and TV Boxes (HLS Streams)
 Add in build.gradle(module : app) `
   implementation 'com.google.android.exoplayer:exoplayer:2.8.4'
   
-For working full screan and stream languages buttons opent in your progect exo_simple_player_view.xml file, and add this`
+For working full screan and stream languages buttons open in your project exo_simple_player_view.xml file, and add this`
 
     <com.google.android.exoplayer2.ui.PlaybackControlView
       android:id="@id/exo_controller"
